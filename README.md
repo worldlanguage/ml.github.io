@@ -1,5 +1,5 @@
 # ml.github.io
 
-please star, 
-please Fork,
-please Watch.
+can star, 
+can Fork,
+can Watch.
